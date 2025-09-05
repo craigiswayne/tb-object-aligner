@@ -1,3 +1,16 @@
+## Why Forked?
+Allows you to install this package via unity's package manager like so:
+
+in your manifest.json
+```json
+{
+  "dependencies": {
+    "com.turbobutton.tb-object-aligner": "https://github.com/craigiswayne/tb-object-aligner.git"
+  }
+}
+```
+----
+
 # TB Object Aligner
 A Unity tool to help align game objects in a scene.
 
